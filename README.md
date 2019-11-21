@@ -1,2 +1,2 @@
 # MyMoneyLeilisson
-Finances Mobile App Built with Flutter/Dart
+Finance Mobile App Built with Flutter/Dart
