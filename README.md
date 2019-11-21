@@ -1,2 +1,0 @@
-# MyMoneyLeilisson
- Finances Mobile App
